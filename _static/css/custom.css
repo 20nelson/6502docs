@@ -1,0 +1,48 @@
+.wy-side-nav-search, .wy-nav-top {
+    background: #ff5d73;
+}
+
+* {
+	font-family: "Oxygen", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,.wy-nav-content .caption * {
+	font-family: "Righteous", sans-serif;
+	font-weight: normal;
+	background-color: #ff5d73;
+	padding: 8px 12px;
+	color: #ffffff;
+	text-transform: uppercase;
+	display: inline-block;
+	position: relative;
+}
+
+code * {
+	font-family: "Oxygen Mono", monospace !important;
+}
+
+.wy-nav-content a {
+	color: #ff5d73 !important;
+}
+
+.wy-side-scroll .caption * {
+	color: #ffffff !important;
+	font-family: "Righteous", sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.wy-side-nav-search input[type=text] {
+	border-radius: 2px;	
+	border-color: #ff5d73 !important;
+}
+
+.headerlink {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	font-size: 0px;
+	visibility: visible !important;
+}
