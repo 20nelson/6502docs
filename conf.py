@@ -20,7 +20,7 @@
 project = '6502docs'
 copyright = '2019, DARC SIDE'
 author = 'Trevor Nelson'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
