@@ -9,11 +9,11 @@ JDK 11 may be downloaded `here <https://www.oracle.com/technetwork/java/javase/d
 
 IntelliJ IDEA
 -------------
-You can either use the school-provided JetBrains lisence or the free community version of IntelliJ. 
+You can either use the school-provided JetBrains licence or the free community version of IntelliJ. 
 Don't use the version from DA Self-Service as it is extremely out of date.
 
 Start by going to `JetBrains' website <https://www.jetbrains.com>`_ and creating an account. 
-If you want the Ultimate Edition, sign up for an education lisence now. Once you have signed up and optionally registered for an education liscence, download JetBrains Toolbox.
+If you want the Ultimate Edition, sign up for an education licence now. Once you have signed up and optionally registered for an education licence, download JetBrains Toolbox.
 The toolbox is preferred to downloading IntelliJ manually since it will handle updates for you.
 
 Now, install IntelliJ Community or Ultimate edition from the toolbox after signing in with your account.
