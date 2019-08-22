@@ -26,3 +26,4 @@ Welcome to the documentation for FRC team 6502!
 
    controltheory
    motorcontrol
+   input
