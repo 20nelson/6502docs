@@ -12,6 +12,7 @@ Welcome to the documentation for FRC team 6502!
    :hidden:
 
    self
+   resources
 
 .. toctree::
    :caption: Setup
